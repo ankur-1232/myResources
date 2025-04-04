@@ -6,4 +6,5 @@
 ##### https://www.nature.com/articles/s41598-025-94052-8
 ### You might get a little bored
 ##### https://plato.stanford.edu/entries/game-theory/#Games
-
+### Intoduce a little culture shall we...
+#### https://www.samford.edu/sports-analytics/fans/2019/The-Moneyball-Science
