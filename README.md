@@ -8,5 +8,5 @@
 ##### https://plato.stanford.edu/entries/game-theory/#Games
 ### Intoduce a little culture shall we...
 #### https://www.samford.edu/sports-analytics/fans/2019/The-Moneyball-Science
-### This might be cool
+### This might be cool - Monte Carlo Simulation
 #### https://youtu.be/9M_KPXwnrlE?si=g9e25oruTCiZk3kb
